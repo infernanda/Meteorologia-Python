@@ -1,7 +1,7 @@
 # Meteorologia-Python
 Guia básico para meteorologistas iniciantes em Python
 
-Esse será um curso breve, assim que eu for tendo tempo vou colacando aulas de python aqui.
+Esse será um guia extremamente básico, assim que eu for tendo tempo vou colacando aulas de python aqui.
 
 
 Para assuntos e aulas/cursos de programação para meteorologia, estarei indicando os seguintes profissionais:
@@ -26,5 +26,7 @@ Tutorias do Guilherme Martins:
 Aqui você encontra conteúdos usando CDO, Fortran, Grads, Shell, Python. 
 
 https://guilherme.readthedocs.io/en/latest/pages/tutoriais/index.html
+
+Assim que eu for lembrando de outros profissionais irei colocando aqui ;). 
 
 
